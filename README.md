@@ -38,15 +38,15 @@
 ----------
 
 ## **💻 Languages and Tools**
-&nbsp;  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/javascript.png" alt="Javascript" width="25"/></a>
-&nbsp;  <a href="https://www.typescriptlang.org/"><img src="./assets/typescript.png" alt="Typescript" width="25"/></a>
-&nbsp;  <a href="https://getbootstrap.com/"><img src="./assets/bootstrap.png" alt="Bootstrap" width="25"/></a>
-&nbsp;  <a href="https://reactjs.org/"><img src="./assets/reactjs.png" alt="React" width="25"/></a>
-&nbsp;  <a href="https://reactnative.dev/"><img src="./assets/react-native.png" alt="React Native" width="25"/></a>
-&nbsp;  <a href="https://nodejs.dev/"><img src="./assets/nodejs.png" alt="NodeJs" width="25"/></a>
-&nbsp;  <a href="https://sequelize.org/master/"><img src="./assets/sequelize.png" alt="Sequelize" width="25"/></a>
-&nbsp;  <a href="https://www.postgresql.org/"><img src="./assets/postgresql.png" alt="PostgreSQL" width="25"/></a>
-&nbsp;  <a href="https://git-scm.com/"><img src="./assets/git.png" alt="Git" width="25"/></a>
+&nbsp;  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/javascript.png" target="_blank" alt="Javascript" width="25"/></a>
+&nbsp;  <a href="https://www.typescriptlang.org/"><img src="./assets/typescript.png" target="_blank" alt="Typescript" width="25"/></a>
+&nbsp;  <a href="https://getbootstrap.com/"><img src="./assets/bootstrap.png" target="_blank" alt="Bootstrap" width="25"/></a>
+&nbsp;  <a href="https://reactjs.org/"><img src="./assets/reactjs.png" target="_blank" alt="React" width="25"/></a>
+&nbsp;  <a href="https://reactnative.dev/"><img src="./assets/react-native.png" target="_blank" alt="React Native" width="25"/></a>
+&nbsp;  <a href="https://nodejs.dev/"><img src="./assets/nodejs.png" target="_blank" alt="NodeJs" width="25"/></a>
+&nbsp;  <a href="https://sequelize.org/master/"><img src="./assets/sequelize.png" target="_blank" alt="Sequelize" width="25"/></a>
+&nbsp;  <a href="https://www.postgresql.org/"><img src="./assets/postgresql.png" target="_blank" alt="PostgreSQL" width="25"/></a>
+&nbsp;  <a href="https://git-scm.com/"><img src="./assets/git.png" target="_blank" alt="Git" width="25"/></a>
 
 <br/>
 
