@@ -27,8 +27,6 @@
 
 <br/>
 
-----------
-
 ## **💻 Languages and Tools**
 &nbsp;  <a href="https://docs.oracle.com/en/java/javase/11/"><img src="./assets/icon-java.png" alt="Java" width="25"/></a>
 &nbsp;  <a href="https://www.typescriptlang.org/"><img src="./assets/icon-typescript.png" alt="Typescript" width="25"/></a>
@@ -38,8 +36,6 @@
 &nbsp;  <a href="https://git-scm.com/"><img src="./assets/icon-git.png" alt="Git" width="25"/></a>
 
 <br/>
-
-----------
 
 ## **🚀 My GitHub Stats:**
 <p> 
