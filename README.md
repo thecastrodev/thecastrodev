@@ -13,15 +13,7 @@
   <strong>Hi, I'm <a href="https://www.eduardocastro.dev/">Eduardo Castro</a> 👋</strong> 
 </h1>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/eduardocastrodev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" width="100"/></a> &nbsp; 
-<a href="https://medium.com/@eduardocastrodev/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" width="100"/></a> &nbsp; 
-<a href="https://www.instagram.com/eduardocastrodev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="100"/></a> &nbsp;
-</p>
-
-
-<p align="center"><img src="./assets/coding.gif"></p>
-
+<br/>
 
 ## **👨‍🚀 About me**
 
@@ -42,7 +34,6 @@
 &nbsp;  <a href="https://www.typescriptlang.org/"><img src="./assets/icon-typescript.png" alt="Typescript" width="25"/></a>
 &nbsp;  <a href="https://nodejs.dev/"><img src="./assets/icon-nodejs.png" alt="NodeJs" width="25"/></a>
 &nbsp;  <a href="https://reactjs.org/"><img src="./assets/icon-reactjs.png" alt="React" width="25"/></a>
-&nbsp;  <a href="https://reactnative.dev/"><img src="./assets/icon-react-native.png" alt="React Native" width="25"/></a>
 &nbsp;  <a href="https://www.postgresql.org/"><img src="./assets/icon-postgresql.png" alt="PostgreSQL" width="25"/></a>
 &nbsp;  <a href="https://git-scm.com/"><img src="./assets/icon-git.png" alt="Git" width="25"/></a>
 
