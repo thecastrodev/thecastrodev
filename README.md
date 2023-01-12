@@ -34,10 +34,3 @@
 &nbsp;  <a href="https://reactjs.org/"><img src="./assets/icon-reactjs.png" alt="React" width="25"/></a>
 &nbsp;  <a href="https://www.postgresql.org/"><img src="./assets/icon-postgresql.png" alt="PostgreSQL" width="25"/></a>
 &nbsp;  <a href="https://git-scm.com/"><img src="./assets/icon-git.png" alt="Git" width="25"/></a>
-
-<br/>
-
-## **🚀 My GitHub Stats:**
-<p> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocastrodev&layout=compact&langs_count=6&theme=midnight-purple" alt="Skills eduardocastrodev" />
-</p>
