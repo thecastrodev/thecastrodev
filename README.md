@@ -1,14 +1,3 @@
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: ...
--->
-
 <h1 align='center'>
   <strong>Hi, I'm <a href="https://www.eduardocastro.dev/">Eduardo Castro</a> 👋</strong> 
 </h1>
@@ -20,8 +9,6 @@
 🚀 Technology lover!
 
 👨‍🎓  Graduating in Computer Engineering from UFC (Federal University of Ceará).
-
-💻 Studying OmniStack technologies (Node.js, ReactJS and React Native).
 
 🧠 "The mind that opens to a new idea, Never comes back to its original size." - Albert Einstein.
 
